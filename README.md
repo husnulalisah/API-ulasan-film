@@ -1,35 +1,17 @@
-## Daftar Endpoint Movies
 
-![Register Movies](images/register%20movies.png)
-
+![images](1.png)
 
 
 
-![Login Movies ](images/login%20movies.png)
+
+![images ](images/2.png)
 
 
 
 
  
-![images](images/1.png)
-
-
-
-
-
-![images](images/2.png)
-
-
-
-
-
 ![images](images/3.png)
 
-
-
-
-
-## Daftar Endpoint Directors
 
 
 
@@ -41,6 +23,7 @@
 
 
 ![images](images/5.png)
+
 
 
 
@@ -59,3 +42,48 @@
 
 
 ![images](images/8.png)
+
+
+
+
+
+![images](images/9.png)
+
+
+
+
+
+![images](images/10.png)
+
+
+
+
+
+![images](images/11.png)
+
+
+
+
+
+
+![images](images/12.png)
+
+
+
+
+
+
+![images](images/13.png)
+
+
+
+
+
+
+
+![images](images/14.png)
+
+
+
+
+
